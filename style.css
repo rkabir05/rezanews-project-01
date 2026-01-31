@@ -128,6 +128,105 @@ body {
 }
 
 
+.font-size-mr-6 {
+    font-size: 0 ;
+}
+
+
+.font-size-mr-7 {
+    font-size: 0 ;
+}
+
+.font-size-mr-8 {
+    font-size: 0 ;
+}
+
+.font-size-mr-9 {
+    font-size: 0 ;
+}
+
+.font-size-mr-10 {
+    font-size: 0 ;
+}
+
+.font-size-mr-11 {
+    font-size: 0;
+}
+.font-size-mr-12 {
+    font-size: 10;
+}
+
+.font-size-mr-13 {
+    font-size: 0;
+}
+
+.font-size-mr-14 {
+    font-size: 0;
+}
+
+.font-size-mr-15 {
+    font-size: 0 ;
+}
+
+.font-size-mr-16 {
+    font-size: 0;
+}
+
+.font-size-mr-17 {
+    font-size: 0;
+}
+
+.font-size-mr-18 {
+    font-size: 0;
+}
+
+.font-size-mr-19 {
+    font-size: 0;
+}
+
+.font-size-mr-20 {
+    font-size: 0;
+}
+
+.font-size-21 {
+    font-size: 0;
+}
+
+.font-size-mr-22 {
+    font-size: 0;
+}
+
+.font-size-mr-23 {
+    font-size: 0;
+}
+
+.font-size-mr-24 {
+    font-size: 0;
+}
+
+.font-size-mr-25 {
+    font-size: 0;
+}
+
+.font-size-mr-26 {
+    font-size: 0;
+}
+
+.font-size-mr-27 {
+    font-size: 0;
+}
+
+.font-size-mr-28 {
+    font-size: 0;
+}
+
+.font-size-mr-29 {
+    font-size: 0;
+}
+
+.font-size-mr-30 {
+    font-size: 0;
+}
 
 
 .font-size-10 {
@@ -180,6 +279,7 @@ body {
 .font-size-22 {
     font-size: 22px;
 }
+
 .pe-0 {
     padding-right: 0;
 }
@@ -476,8 +576,8 @@ span.c-name-color {
 .main-lead-title {
     font-size: 28px;
     font-weight: 100;
-    line-height: 1.6;
-    color: #333;
+    line-height: 1;
+    color: #333 !important;
 }
 
 .main-lead-title:hover,
