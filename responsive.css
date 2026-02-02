@@ -9,15 +9,20 @@
 
 
 .news-title {
-    font-size: 15px;
-    font-weight: 100;
+    font-size: 16px;
+    font-weight: 200;
     line-height: 1.25;
     color: #333;
     /* text-align: right; */
 }
 
 
-.font-size-6 {
+.font-size-mr-18 {
+    font-size: 18px;
+}
+
+
+/* .font-size-6 {
     font-size: 0;
 }
 
@@ -218,7 +223,7 @@
 
 .font-size-mr-30 {
     font-size: 30px;
-}
+} */
 
 
 
@@ -353,6 +358,19 @@ ul.list-unstyled>li>a {
     bottom: -15px;
     background: #fff;
     padding: 0 24px;
+}
+
+.letest.col-lg-4.col-12 {
+    padding: 0;
+}
+
+.item-name {
+    /* margin: 18px 0; */
+    border-left: 6px solid #f9c802;
+    padding-left: 10px;
+    color: #606060;
+    font-size: 18px;
+    margin-left: 11px;
 }
 
 }

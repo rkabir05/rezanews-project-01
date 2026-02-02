@@ -128,7 +128,7 @@ body {
 }
 
 
-.font-size-mr-6 {
+/* .font-size-mr-6 {
     font-size: 0 ;
 }
 
@@ -226,7 +226,7 @@ body {
 
 .font-size-mr-30 {
     font-size: 0;
-}
+} */
 
 
 .font-size-10 {
@@ -640,10 +640,18 @@ a.news-title:hover {
 }
 
 
+.news-title-lead {
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1.4;
+    color: #333;
+}
+
 
 
 .background-box {
     background: #f0f0f0;
+    border-top: 2px solid #f9c802;
 }
 
 
