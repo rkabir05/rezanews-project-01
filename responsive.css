@@ -1,10 +1,20 @@
 @media only screen and (max-width:768px) {
 
+    body {
+    /* font-family: "Baloo Da 2", sans-serif; */
+    font-family: SolaimanLipiNormal;
+    font-size: 16px;
+    line-height: 150%;
+   overflow-x: hidden;
+   color: #333;
+}
+
     .main-lead-title {
     font-size: 18px;
-    font-weight: 200;
+    font-weight: bold;
     line-height: 0;
     color: #333 !important;
+    
 }
 
 
@@ -373,6 +383,80 @@ ul.list-unstyled>li>a {
     margin-left: 11px;
 }
 
+h4.news-title-ent {
+    color: white;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.p-img-icon-right, .p-img-icon, .img-icon {
+    color: #CC181E;
+    font-size: 20px;
+}
+
+.img-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #00000094;
+    padding: 6px 8px;
+    z-index: 1;
+}
+
+.lifestyle-lead {
+    padding: 0;
+}
+
+.lifestyle-lead-bg {
+    margin: 0;
+}
+
+.p-news-title {
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 1.4;
+    color: white;
+}
+
+.policy-title {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+p.policy-text {
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+
+.main-lead-title h3 {
+    font-size: 16px;
+}
+
+.more-read-btn a {
+    background: #f9c802;
+    color: #000;
+    padding: 5px 5px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 12px;
+    font-size: 14px;
+    font-weight: 600;
+}
+.a-title{
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.s-f-size {
+    font-size: 12px;
+}
+
+.btnn {
+    font-size: 18px;
+    padding: 5px;
+}
 }
 
 

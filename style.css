@@ -721,13 +721,14 @@ a.news-title:hover {
 
 .shadow {
     width: 100%;
-    padding: 10px;
+    padding: 8px 3px;
     z-index: 1;
 }
 
 .lifestyle-lead-bg {
     width: 100%;
     background: #FFF;
+    margin-left: -2px;
 }
 
 
@@ -977,3 +978,17 @@ p.policy-text {
     color: var(--bs-btn-hover-color);
 }
 
+h4.news-title-ent {
+    color: white;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.lifestyle-right-bg h4 {
+    margin-left: 5px;
+}
+
+.lifestyle-right-bg img {
+    margin-left: 2px;
+    padding-left: 1px;
+}
